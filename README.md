@@ -14,10 +14,6 @@ Frontend: HTML, CSS (Basic Styling)
 
 📥 Installation Guide
 
-1️⃣ Clone the Repository
-
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
 
 2️⃣ Set Up a Virtual Environment (Recommended)
 
